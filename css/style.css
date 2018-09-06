@@ -10,7 +10,9 @@ selector {
 */
 
 /* Type selector */
-/* this is a type, select all <p> */
+
+
+                          /* this is a type, select all <p> */
 p {                     
   font-size: 16px;
 }
